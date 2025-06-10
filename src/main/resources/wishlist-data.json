@@ -1,0 +1,202 @@
+[
+  {
+    "wishlistId": "552f7d68-3755-436e-9ca8-289c185fba33",
+    "userId": "bb473061-78db-4f68-9849-36e64f15f446",
+    "productId": "42aa7da5-203f-4b02-ae30-899ad39b0304",
+    "productName": "Luvas de Boxe Everlast Pro Style",
+    "productValue": 279.0,
+    "urlImage": "https://example.com/images/luvas-everlast.jpg"
+  },
+  {
+    "wishlistId": "1768be60-0576-4920-979c-841b035aa804",
+    "userId": "bb473061-78db-4f68-9849-36e64f15f446",
+    "productId": "7770249f-c654-4d32-aed5-081d77db671b",
+    "productName": "Bola de Futebol Adidas Copa",
+    "productValue": 199.99,
+    "urlImage": "https://example.com/images/bola-adidas-copa.jpg"
+  },
+  {
+    "wishlistId": "a0668f44-8334-4c86-89a6-dd6dbeaf7a62",
+    "userId": "bb473061-78db-4f68-9849-36e64f15f446",
+    "productId": "9928d221-749b-4061-b067-26e8584981a1",
+    "productName": "Skate Profissional Maple",
+    "productValue": 499.9,
+    "urlImage": "https://example.com/images/skate-maple.jpg"
+  },
+  {
+    "wishlistId": "40101ccc-13e2-47c7-8846-2eee429574c7",
+    "userId": "bb473061-78db-4f68-9849-36e64f15f446",
+    "productId": "713e2070-7b7e-4a3d-a271-58c3d84a3e54",
+    "productName": "Tênis de Corrida New Balance FuelCell",
+    "productValue": 729.9,
+    "urlImage": "https://example.com/images/tenis-new-balance.jpg"
+  },
+  {
+    "wishlistId": "f5bb108e-3ba8-4712-93bc-6d4bc1a81e00",
+    "userId": "bb473061-78db-4f68-9849-36e64f15f446",
+    "productId": "2359a14b-2a12-4671-a2ed-18693ed1d030",
+    "productName": "Bola de Basquete Spalding NBA",
+    "productValue": 189.99,
+    "urlImage": "https://example.com/images/bola-basquete-spalding.jpg"
+  },
+  {
+    "wishlistId": "fb404b17-01d4-4551-86e4-10b8343d5466",
+    "userId": "da53ea45-5a41-4d6e-8ade-0b08b50633fe",
+    "productId": "be364cbb-2d5e-4ada-980e-1b1a76d6b358",
+    "productName": "Bola de Handebol Penalty H3L",
+    "productValue": 149.9,
+    "urlImage": "https://example.com/images/bola-handebol-penalty.jpg"
+  },
+  {
+    "wishlistId": "ade428f7-42c4-4699-9825-b536e4ddc642",
+    "userId": "da53ea45-5a41-4d6e-8ade-0b08b50633fe",
+    "productId": "c427fc08-c19c-4428-9667-74c544e22286",
+    "productName": "Tênis Adidas Ultraboost",
+    "productValue": 799.99,
+    "urlImage": "https://example.com/images/tenis-adidas-ultraboost.jpg"
+  },
+  {
+    "wishlistId": "be6f7f2b-c86a-4c8c-9609-e1c24872a656",
+    "userId": "da53ea45-5a41-4d6e-8ade-0b08b50633fe",
+    "productId": "ba772693-5536-4b0e-a57a-1263ae2f1f04",
+    "productName": "Bermuda de Compressão Nike",
+    "productValue": 139.9,
+    "urlImage": "https://example.com/images/bermuda-compressao.jpg"
+  },
+  {
+    "wishlistId": "263fff04-f804-4943-b829-ae8b13931697",
+    "userId": "da53ea45-5a41-4d6e-8ade-0b08b50633fe",
+    "productId": "ae029827-b726-4131-b812-82cd2bd34db7",
+    "productName": "Camisa de Ciclismo Scott RC",
+    "productValue": 349.9,
+    "urlImage": "https://example.com/images/camisa-ciclismo-scott.jpg"
+  },
+  {
+    "wishlistId": "e198170c-afcc-4abe-bd31-7e78c00cd91b",
+    "userId": "da53ea45-5a41-4d6e-8ade-0b08b50633fe",
+    "productId": "f4fa2c47-a69e-470a-9bd1-3305c51f980c",
+    "productName": "Tênis de Corrida Nike Air Zoom Pegasus",
+    "productValue": 649.9,
+    "urlImage": "https://example.com/images/nike-air-zoom-pegasus.jpg"
+  },
+  {
+    "wishlistId": "24713869-0b68-4670-ba63-df9f5dec26d0",
+    "userId": "80a5ca0a-fa0b-42db-9d2d-1b5739b99953",
+    "productId": "fb4670f3-4a34-4f11-b648-38dae94a053d",
+    "productName": "Luvas de Ciclismo Shimano",
+    "productValue": 119.9,
+    "urlImage": "https://example.com/images/luvas-ciclismo-shimano.jpg"
+  },
+  {
+    "wishlistId": "5093992d-a3b2-4984-bf8b-3e277ea6100c",
+    "userId": "80a5ca0a-fa0b-42db-9d2d-1b5739b99953",
+    "productId": "c57c1fed-f1d5-430a-83e1-5d956cec3ab2",
+    "productName": "Bicicleta Sense One 2024",
+    "productValue": 2850.0,
+    "urlImage": "https://example.com/images/bicicleta-sense-one.jpg"
+  },
+  {
+    "wishlistId": "648358a8-0210-4cd9-9cd9-6f59d72d47d2",
+    "userId": "80a5ca0a-fa0b-42db-9d2d-1b5739b99953",
+    "productId": "41cfd9c8-cdb4-4246-bd9e-88801a711a45",
+    "productName": "Camisa Oficial São Paulo FC 2024",
+    "productValue": 339.9,
+    "urlImage": "https://example.com/images/camisa-sao-paulo.jpg"
+  },
+  {
+    "wishlistId": "4b0ba88d-e75f-40b5-ad7a-ab34134bcbc1",
+    "userId": "80a5ca0a-fa0b-42db-9d2d-1b5739b99953",
+    "productId": "bdff0737-294b-4dce-81c3-05b414ecfd82",
+    "productName": "Óculos de Natação Speedo",
+    "productValue": 99.9,
+    "urlImage": "https://example.com/images/oculos-natacao-speedo.jpg"
+  },
+  {
+    "wishlistId": "dfe1e42f-f8cd-476a-9c31-afa0488791d1",
+    "userId": "80a5ca0a-fa0b-42db-9d2d-1b5739b99953",
+    "productId": "0ce8c09c-f0fb-40c2-ada2-950ebcd6b45a",
+    "productName": "Camisa Seleção Brasileira 2024",
+    "productValue": 399.9,
+    "urlImage": "https://example.com/images/camisa-selecao.jpg"
+  },
+  {
+    "wishlistId": "beb8af3d-163c-42e1-b8cb-e8be12bdb6e8",
+    "userId": "ce872749-957c-4e64-8acd-361888b5479e",
+    "productId": "55ca4b23-131f-4d92-882b-86bf76106f2a",
+    "productName": "Bicicleta Caloi Explorer Comp",
+    "productValue": 3299.0,
+    "urlImage": "https://example.com/images/bicicleta-caloi-explorer.jpg"
+  },
+  {
+    "wishlistId": "8ed5165e-5bdd-4980-bc14-a1dfbbf0242b",
+    "userId": "ce872749-957c-4e64-8acd-361888b5479e",
+    "productId": "061e5365-a8fc-4f0e-87dd-5e2cf70be1cb",
+    "productName": "Raquete de Tênis Babolat Pure Drive",
+    "productValue": 1299.0,
+    "urlImage": "https://example.com/images/raquete-babolat.jpg"
+  },
+  {
+    "wishlistId": "c745a989-db15-4978-b50c-9a1ebdb24699",
+    "userId": "ce872749-957c-4e64-8acd-361888b5479e",
+    "productId": "61da453d-1784-44bb-a154-d45fe8d0ea5e",
+    "productName": "Luva de Goleiro Puma Future",
+    "productValue": 259.9,
+    "urlImage": "https://example.com/images/luva-goleiro-puma.jpg"
+  },
+  {
+    "wishlistId": "b7dca334-e4ac-4725-a2e2-4b72951e4453",
+    "userId": "ce872749-957c-4e64-8acd-361888b5479e",
+    "productId": "6cbdeff8-4d15-412d-a785-0cf800da6b58",
+    "productName": "Camisa Oficial Flamengo 2024",
+    "productValue": 349.9,
+    "urlImage": "https://example.com/images/camisa-flamengo-2024.jpg"
+  },
+  {
+    "wishlistId": "fc4bc5da-c95d-4b40-b9db-038df9856ba8",
+    "userId": "ce872749-957c-4e64-8acd-361888b5479e",
+    "productId": "42ccc523-2a43-45d3-975c-9b7f12a0a2de",
+    "productName": "Camisa Oficial Palmeiras 2024",
+    "productValue": 329.9,
+    "urlImage": "https://example.com/images/camisa-palmeiras.jpg"
+  },
+  {
+    "wishlistId": "431d4a7f-f325-4789-a500-34ebe132d69b",
+    "userId": "bdbc7417-7e09-4f54-82ba-ec225a9d7927",
+    "productId": "8dd9d4b3-a615-4fea-8882-e993413c0460",
+    "productName": "Tênis de Corrida Asics Gel Nimbus",
+    "productValue": 799.0,
+    "urlImage": "https://example.com/images/tenis-asics-gel-nimbus.jpg"
+  },
+  {
+    "wishlistId": "be3a525f-5963-4b1b-b517-b325b242b58c",
+    "userId": "bdbc7417-7e09-4f54-82ba-ec225a9d7927",
+    "productId": "ac39ade2-1a96-47e1-84f9-f4b8e6af3714",
+    "productName": "Camisa Oficial Corinthians 2024",
+    "productValue": 339.9,
+    "urlImage": "https://example.com/images/camisa-corinthians.jpg"
+  },
+  {
+    "wishlistId": "08bcb1b4-e2a3-4b0c-b2d6-284fbdc49807",
+    "userId": "bdbc7417-7e09-4f54-82ba-ec225a9d7927",
+    "productId": "b3c1b243-0a80-4475-8123-186787bfb308",
+    "productName": "Raquete de Beach Tennis Drop Shot",
+    "productValue": 599.9,
+    "urlImage": "https://example.com/images/raquete-beach-tennis.jpg"
+  },
+  {
+    "wishlistId": "43d4295e-365e-4a98-b543-33687b132244",
+    "userId": "bdbc7417-7e09-4f54-82ba-ec225a9d7927",
+    "productId": "a01fa28c-a375-4ead-80b8-e6bdc022d539",
+    "productName": "Bola de Vôlei Mikasa V200W",
+    "productValue": 249.9,
+    "urlImage": "https://example.com/images/bola-volei-mikasa.jpg"
+  },
+  {
+    "wishlistId": "8b0d4813-4a4b-4423-9549-a52c448e0d65",
+    "userId": "bdbc7417-7e09-4f54-82ba-ec225a9d7927",
+    "productId": "d9e49bce-1a51-4e00-85ce-6db06404feba",
+    "productName": "Patins Roller Freestyle",
+    "productValue": 599.9,
+    "urlImage": "https://example.com/images/patins-roller.jpg"
+  }
+]
