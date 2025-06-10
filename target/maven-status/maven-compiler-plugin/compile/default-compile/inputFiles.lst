@@ -1,0 +1,16 @@
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\application\config\SpringdocConfig.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\application\dto\WishlistRequest.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\application\dto\WishlistResponse.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\application\mapper\WishlistMapper.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\application\service\WishlistService.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\domain\exception\ProductAlreadyInWishlistException.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\domain\exception\ProductNotFoundInWishlistException.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\domain\exception\WishlistLimitExceededException.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\domain\model\Wishlist.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\domain\port\input\WishlistServicePort.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\domain\port\output\WishlistRepositoryPort.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\infra\adapter\input\GlobalExceptionHandler.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\infra\adapter\input\WishlistController.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\infra\adapter\output\WishlistRepository.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\infra\loader\WishlistDataLoader.java
+C:\Users\maria\OneDrive\Documentos\Projetos\wishlist-api\src\main\java\com\br\netshoes\wishlist_api\WishlistApiApplication.java

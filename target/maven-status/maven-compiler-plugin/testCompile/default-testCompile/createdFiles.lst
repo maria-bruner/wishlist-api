@@ -1,0 +1,4 @@
+com\br\netshoes\wishlist_api\WishlistApiApplicationTests.class
+com\br\netshoes\wishlist_api\application\service\WishlistServiceTest.class
+com\br\netshoes\wishlist_api\application\mapper\WishlistMapperTest.class
+com\br\netshoes\wishlist_api\infra\adapter\input\WishlistControllerTest.class
